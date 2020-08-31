@@ -50,7 +50,7 @@
                 android:layout_toStartOf="@id/text2"
                 android:layout_toLeftOf="@id/text2"
                 android:layout_toEndOf="@id/text1"
-                android:layout_toRightOf="@id/text1" />
+               android:layout_toRightOf="@id/text1" />
 
         </RelativeLayout>
 
